@@ -6,8 +6,9 @@ int main()
 	num1 = 4;
 	num2 = 7;
 	// pre increment ,++
-	printf("%d",++num1);
-	//post increment
+//	printf("%d",++num1);
+	//post incremenet
+	printf("%d",num1++);
 	
 	
 	
