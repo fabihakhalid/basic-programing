@@ -17,7 +17,7 @@ int main()
    //printf("%d",value1%value2);
 	 
 	 int x = 5, y =10;
-	 printf("%d\n",(x<y));	
+	 printf("%d\n",(x>y));	
 	
 	
 	
