@@ -14,7 +14,7 @@ int main()
    printf("Enter two numbers : ");
    scanf("%d", &value1);
    scanf("%d", &value2);
-   printf("%d",value1+value2);
+   printf("%d",value1*value2);
 	
 	
 	
