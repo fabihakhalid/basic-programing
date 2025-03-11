@@ -10,13 +10,14 @@ int main()
 	//post incremenet
 //	printf("%d",num1++);
 
-   int value1,value2;
-   printf("Enter two numbers : ");
-   scanf("%d", &value1);
-   scanf("%d", &value2);
-   printf("%d",value1*value2);
-	
-	
+  // int value1,value2;
+   //printf("Enter two numbers : ");
+   //scanf("%d", &value1);
+   //scanf("%d", &value2);
+   //printf("%d",value1%value2);
+	 
+	 int x = 5, y =10;
+	 printf("%d\n",(x<y));	
 	
 	
 	
