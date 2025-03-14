@@ -4,7 +4,7 @@ int main()
 {
 	int num1 , num2 ;
 	printf("Enter two integer :");
-	scanf("%d/n",&num1);
+	scanf("%d",&num1);
 	scanf("%d",&num2);
 	int sum = num1+num2;
 	int diff = num1-num2;
