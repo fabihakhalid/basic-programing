@@ -18,7 +18,6 @@ int main()
 	printf("reminder %d", sum );
 	
 	
-	
 	return 0;
 	
 }
