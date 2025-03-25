@@ -11,7 +11,7 @@ int main()
 	int product = num1*num2;
 	int divide = num1/num2;
 	int reminder = num1%num2;
-	printf("sum %d", sum );
+	printf("sum %d", sum ); 
 	printf("diff %d", diff );
 	printf("product %d", product );
 	printf("divide %d", divide);
