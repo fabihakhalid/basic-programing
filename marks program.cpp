@@ -7,8 +7,8 @@ int main(){
 	scanf("%d" , &marks);
 	
 	switch(marks){
-		case 1:
-			printf("100");
+		case 80:
+			printf("a");
 			break;
 			case 2:
 			printf("90");
