@@ -11,7 +11,7 @@ int main() {
     printf("\n");
 
     // Using a while loop to print even numbers between 1 and 20
-    printf("Using a while loop:\n");
+    printf("Using a while loop:\n"); 
     int j = 2; // Start from the first even number
     while (j <= 20) {
         printf("%d ", j);
